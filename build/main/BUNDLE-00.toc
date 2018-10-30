@@ -1,0 +1,3 @@
+([('main',
+   '/Users/aratikulkarni/Desktop/xyz/python-mega/book/dist/main',
+   'EXECUTABLE')],)
